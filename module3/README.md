@@ -150,4 +150,4 @@ In this module you have simulated a read and write test using FIO to determine t
 In the next module you will format and write  data to the Volume Storage Gateway volume, then snapshot this and covert it to an EBS volume.  This illustrates how Volume Storage Gateway can be used for migration, disaster recovery or copy data to a development machine in AWS.  
 
 
-Go to [Module 3](/module3).
+Go to [Module 4](/module4).
